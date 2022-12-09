@@ -8,7 +8,7 @@ I'm a Front end developer, a Designer, and a Blogger currently studying Front En
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Reactjs.
+- 🌱 I’m currently learning Vue.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front End Engineer or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing ifeomasylvia.dike@gmail.com.
